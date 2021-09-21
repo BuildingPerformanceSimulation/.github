@@ -1,8 +1,8 @@
-# The Building Performance Simulation Community
+# Welcome to the Building Performance Simulation Community!
 
 ## Purpose
 
-Welcome to the Building Performance Simulation GitHub organization! A place for community discussion and development of BPS*.
+A place for community discussion ___and___ development of BPS topics and tools*.
 
 ## Discussion
 
